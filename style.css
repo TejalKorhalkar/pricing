@@ -1,0 +1,78 @@
+*{
+    margin-top: 0;
+}
+.container{
+    background-color:white;
+    width: 1000px;
+    height: 800px;
+    margin: 100px;
+    padding-top: 50px;
+}
+.card{
+    width: 250px;
+    margin: 40px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: rgb(199, 198, 198);
+    display: inline-block;
+}
+.box{
+    background-color: rgb(1, 80, 65);
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+    border-radius: 5px;
+   
+}
+li{
+    list-style: none;
+}
+.check i{
+    color: green;
+}
+.times i{
+    color: red;
+}
+h3{
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.buy{
+    color: white;
+    background-color: rgb(1, 80, 65);
+    text-align: center;
+    width: 150;
+    padding:10px ;
+    margin: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-size: larger;
+    
+}
+.standard{
+    width: 250px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: rgb(199, 198, 198);
+    display:inline-block;
+    position: relative;
+    bottom: 30px;
+}
+
+.boxTwo{
+    background-color: red;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+    margin-top: 0;
+    border-radius: 5px;
+    margin-left: 0;
+    
+}
